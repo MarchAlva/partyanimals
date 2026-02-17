@@ -39,7 +39,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: '巴巴拉', features: [2, 4, 9] }, { name: '糊涂', features: [1, 3, 5, 8] },
         { name: '坨坨', features: [4, 5, 9, 10] }, { name: '瑞文', features: [1, 3, 4, 5, 8] },
         { name: '2662', features: [1, 2, 5] }, { name: 'Vicksy', features: [4, 5, 7, 8, 10] },
-        { name: '纳鲁', features: [9] }, { name: '萝卜', features: [5,9] },
+        { name: '纳鲁', features: [9] }, { name: '面条', features: [4, 5, 7, 8, 10] }, 
+        { name: '萝卜', features: [5, 9] }
       ]
     },
     achievements: {
