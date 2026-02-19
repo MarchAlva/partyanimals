@@ -1,8 +1,10 @@
-# 猛兽派对助手 (Party Animals Helper)
+# 猛兽派对助手 (Party Animals Helper) | Fork 版
+> Fork from: [gufei233/partyanimals](https://github.com/gufei233/partyanimals)  
+> 我的 Fork 仓库：[marchalva/partyanimals](https://github.com/你的用户名/partyanimals)  
 
 这是一个为游戏《猛兽派对》（Party Animals）玩家制作的轻量级Web助手工具。它提供了两个主要功能页面，帮助玩家快速查询和筛选游戏内的动物角色和成就信息。项目完全基于前端技术，无需后端支持，响应迅速，部署简单。
 
-![项目截图](images/screenshot.png) 
+![项目截图](images/screenshot-fork.png) 
 
 ## 主要功能
 
@@ -41,3 +43,7 @@
 │   └── ...
 └── README.md           # 本文件
 ```
+
+## 🙏 特别致谢
+- 原项目作者：<a href="https://github.com/gufei233" target="_blank">顾绯 (gufei233)</a>，提供核心功能与基础代码；
+- 技术指导：豆包（Douban AI），协助梳理 Fork 开发规范、代码优化思路与个性化定制方案。
